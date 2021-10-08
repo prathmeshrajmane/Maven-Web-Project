@@ -1,9 +1,8 @@
+<!DOCTYPE html>
 <html>
 <head>
-  <title>
-    this is sample page
-  </title>
-  </head>
+  <title>Some relevant title</title>
+</head>
 <body>
 <h2>Hello World!</h2>
 </body>
